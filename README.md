@@ -1,2 +1,2 @@
-# ECOM_1
-A prototype for a webstore with MongoDB
+# MongoDB Template
+A template for a webstore with MongoDB
